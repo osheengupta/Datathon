@@ -1,7 +1,4 @@
-
-# Datathon
-
-# Predictive Modeling and Analysis
+# Crop variety recommendation using Predictive Modeling and Analysis
 
 > Leveraging data to build robust predictive models for impactful insights.
 
@@ -117,13 +114,9 @@ print(f"Best Params: {grid_search.best_params_}")
 - Gained expertise in hyperparameter tuning using Grid Search.
 - Learned effective ways to visualize and interpret results.
 
-## Contributors
-
-- [Your Name](https://github.com/YourGitHubProfile) - Data Scientist
-
 ## Contact
 
-Feel free to reach out for collaboration or feedback. **Created by:** [Me and my teammates - Komal Nayak, Mahima Advilkar, Vibha Gupta]
+Feel free to reach out for collaboration or feedback. **Created by:** Me and my teammates - Komal Nayak, Mahima Advilkar, Vibha Gupta
 
 Connect with me:
 
