@@ -6,7 +6,6 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Demo](#demo)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
@@ -43,11 +42,11 @@ This project focuses on building predictive models using Python to analyze datas
 ## Technologies Used
 
 - **Python**
-- **pandas**
-- **numpy**
-- **matplotlib**
-- **seaborn**
-- **scikit-learn**
+- **Pandas**
+- **Numpy**
+- **Matplotlib**
+- **Seaborn**
+- **Scikit-learn**
 
 ## Setup Instructions
 
@@ -90,16 +89,14 @@ print(f"Best Params: {grid_search.best_params_}")
 
 ### Current Features
 
-- Data Cleaning and Exploration
-- Predictive Modeling using Random Forest
-- Hyperparameter Tuning with Grid Search
-- Result Visualization
+- Real-time crop variety predictions based on input parameters
+- Dashboard visualization for trends and insights
+- Recommendations tailored to soil, zone, and environmental conditions
 
 ### Future Enhancements
 
-- Add support for additional models like XGBoost and LightGBM.
-- Automate preprocessing workflows.
-- Deploy the model on a cloud service for real-time predictions.
+- Integrate an AI-powered chatbot to answer farmer queries interactively
+- Expand prediction capabilities to include weather-driven crop forecasting
 
 ## Status
 
