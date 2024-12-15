@@ -28,16 +28,16 @@ This project focuses on building predictive models using Python to analyze datas
 ### Visualizations from the Project:
 
 1. **EDA and Trends**:
-   ![EDA Visualization](Datathon/img/EDA.png)
+   ![EDA](Datathon/img/EDA.png)
    - This chart explores the distribution of plant varieties across different zones and highlights key trends.
 
 2. **Predictive Model Accuracy**:
-   ![Model Accuracy](Datathon/img/ModelAccuracy.png)
-   ![Category](Datathon/img/MA2.png)
+   ![ModelAccuracy](Datathon/img/ModelAccuracy.png)
+   ![MA2](Datathon/img/MA2.png)
    - A confusion matrix and accuracy metrics for the Random Forest model achieving 80% accuracy.
 
 4. **Recommendations**:
-   ![Recommendations Dashboard](Datathon/img/Recommendations.png)
+   ![Recommendations](Datathon/img/Recommendations.png)
    - This dashboard showcases crop recommendations tailored for zones, soil types, and environmental conditions.
 
 ## Technologies Used
