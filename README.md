@@ -1,6 +1,7 @@
 # Crop variety recommendation using Predictive Modeling and Analysis
 
-> Leveraging data to build robust predictive models for impactful insights.
+> Predicting the ideal crop variety is essential for farmers because it helps maximize yield, minimize risks, and efficiently use resources. By choosing the right variety tailored to local soil, climate, and environmental conditions, farmers can increase productivity and reduce the likelihood of crop failure due to pests, diseases, or extreme weather. This approach also supports sustainable farming by optimizing inputs like water and fertilizers, making agriculture more resilient to climate change and ensuring better food security and profitability.
+
 
 ## Table of Contents
 
@@ -27,15 +28,16 @@ This project focuses on building predictive models using Python to analyze datas
 ### Visualizations from the Project:
 
 1. **EDA and Trends**:
-   ![EDA Visualization](path/to/eda-visualization.png)
+   ![EDA Visualization](Datathon/img/EDA.png)
    - This chart explores the distribution of plant varieties across different zones and highlights key trends.
 
 2. **Predictive Model Accuracy**:
-   ![Model Accuracy](path/to/model-accuracy.png)
+   ![Model Accuracy](Datathon/img/ModelAccuracy.png)
+   ![Category](Datathon/img/MA2.png)
    - A confusion matrix and accuracy metrics for the Random Forest model achieving 80% accuracy.
 
-3. **Recommendations**:
-   ![Recommendations Dashboard](path/to/recommendations-dashboard.png)
+4. **Recommendations**:
+   ![Recommendations Dashboard](Datathon/img/Recommendations.png)
    - This dashboard showcases crop recommendations tailored for zones, soil types, and environmental conditions.
 
 ## Technologies Used
@@ -120,6 +122,6 @@ Feel free to reach out for collaboration or feedback. **Created by:** Me and my 
 
 Connect with me:
 
-- **Email**: [youremail@example.com](mailto\:youremail@example.com)
-- **GitHub**: [YourGitHubProfile](https://github.com/YourGitHubProfile)
-- **LinkedIn**: [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)
+- **Email**: [osheengupta1994@gmail.com](mailto\:osheengupta1994@gmail.com)
+- **GitHub**: [osheengupta](https://github.com/osheengupta)
+- **LinkedIn**: [Osheen Gupta](https://linkedin.com/in/osheengupta/)
